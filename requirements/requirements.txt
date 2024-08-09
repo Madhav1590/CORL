@@ -1,4 +1,4 @@
-# Main dependencies
+# Main
 git+https://github.com/tinkoff-ai/d4rl@master#egg=d4rl
 tqdm==4.64.0
 wandb==0.12.21
@@ -15,3 +15,4 @@ flax==0.6.1
 optax==0.1.3
 distrax==0.1.2
 chex==0.1.5
+
